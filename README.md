@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=61DAFB"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=SpringBoot&logoColor=61DAFB"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Redux-pink?style=flat&logo=Redux&logoColor=764ABC"/>
 </p>
 
 <p>
