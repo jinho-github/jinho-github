@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/nuxtdotjs-c2c5c5?style=flat&logo=nuxtdotjs&logoColor=339933"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Nuxt.js-c2c5c5?style=flat&logo=Nuxt.js&logoColor=339933"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-f1d8d9?style=flat&logo=PostgreSQL&logoColor=4479A1"/>&nbsp;&nbsp;
 </p>
 
