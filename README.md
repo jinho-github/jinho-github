@@ -1,30 +1,32 @@
 <div align="center">
 
 <h3>🔥 Tech Stack 🔥</h3>
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=61DAFB"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=SpringBoot&logoColor=61DAFB"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Nuxt.js-c2c5c5?style=flat&logo=Nuxt.js&logoColor=339933"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-f1d8d9?style=flat&logo=PostgreSQL&logoColor=4479A1"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Bitbucket-white?style=flat&logo=Bitbucket&logoColor=0052CC"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Confluence-gray?style=flat&logo=Confluence&logoColor=172B4D"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Jira-green?style=flat&logo=Jira&logoColor=0052CC"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 </p>
-  
-#
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinho-github&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho-github&layout=compact&theme=tokyonight)
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jinho-github&show_icons=true&theme=tokyonight&hide_border=true)&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho-github&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
