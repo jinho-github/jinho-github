@@ -23,9 +23,7 @@
 
 <br>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinho-github&theme=tokyonight" alt="GitHub Stats" style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border-radius: 12px;"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jinho-github&theme=tokyonight" alt="Top Languages" style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border-radius: 12px;"/>
-</div>
+[![Jinho's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jinho-github&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
