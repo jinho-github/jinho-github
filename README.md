@@ -24,8 +24,8 @@
 <br>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinho-github&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12px" alt="GitHub Stats" style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinho-github&layout=compact&theme=tokyonight&hide_border=true&border_radius=12px" alt="Top Languages" style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinho-github&theme=tokyonight" alt="GitHub Stats" style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border-radius: 12px;"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jinho-github&theme=tokyonight" alt="Top Languages" style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border-radius: 12px;"/>
 </div>
 
 </div>
