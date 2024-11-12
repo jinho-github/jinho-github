@@ -23,11 +23,8 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-Oracle-red?style=for-the-badge&logo=oracle&logoColor=white"/>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinho-github&theme=tokyonight" alt="GitHub Stats" style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border-radius: 12px;"/>
 </div>
 
 [![Jinho's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jinho-github&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
