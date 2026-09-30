@@ -1,34 +1,42 @@
 <div align="center">
 
-<h3>🔥 Tech Stack 🔥</h3>
+  <h3>🔥 Tech Stack 🔥</h3>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; padding: 20px; background-color: #f5f5f5; border-radius: 12px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-</div>
+  <!-- Backend & Database -->
+  <p>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </p>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-</div>
+  <!-- Frontend -->
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
 
-<br>
+  <!-- Tools & Collaboration -->
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  </p>
 
-[![Jinho's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jinho-github&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <br>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinho-github&theme=tokyonight" alt="GitHub Stats" style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border-radius: 12px;"/>
-</div>
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/YOUR_GITHUB_ID">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_ID&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
+  </a>
 
+  <br><br>
 
+  <!-- GitHub Stats Card -->
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_ID&theme=tokyonight" alt="GitHub Stats" />
+  </p>
 
 </div>
